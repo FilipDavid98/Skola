@@ -1,0 +1,261 @@
+
+CORPORATE LADDER TO HEAVEN
+You are BOB. Just... Bob.
+An average employee in a soul-crushing mega-corp that stretches across Earth.
+
+One day, after being passed over for promotion by a guy who can’t even spell “Excel,” something in you snaps.
+
+You will rise — not up the corporate ladder, but through it.
+Coworkers, HR demons, soulless executives...
+And if needed, you’ll kill the CEO of Earth himself.
+Heaven help you. Because he won't.
+
+PRESS ENTER TO START <<
+
+[Location: Break Room – Smells like burnt coffee and lost dreams.]
+
+You jolt awake in the corner of the break room.
+Your badge is gone. Your dignity is questionable.
+Across from you stands an old janitor with glowing eyes.
+
+JANITOR:
+"The system is broken, kid... but you can break it first."
+
+[You receive a thermos of Healing Coffee (+HP).]
+
+[Location: Copy Area]
+
+You hear scratching from the shadows.
+A creature with toner-stained fingers lunges forward.
+
+Enemy: PRINTER GOBLIN
+"NO PRINT FOR YOU!"
+
+[Battle begins...]
+
+[Location: Break Room Corridor]
+
+A woman with six coffee cups taped to her belt blocks your path.
+
+Enemy: COFFEE CULTIST
+"Praise be the Brew!"
+
+[Battle begins...]
+
+[Location: Cube Farm]
+
+Two robotic Slackbots emerge from behind ergonomic chairs.
+
+Enemies: SLACKBOT x2
+"Hey champ, just circling back!"
+
+[Battle begins...]
+
+[Location: HR Hellroom]
+
+You step into the heart of HR. A circle of flaming contracts surrounds a demon in business casual.
+
+Mini-Boss: HR DEMONESS LINDA
+"Time for your annual evaluation... IN HELL."
+
+[Battle begins...]
+
+[After defeating Linda:]
+LINDA:
+"You... can't... quit... if you're already... fired..."
+
+[+HR Badge Acquired]
+
+[Location: Secret Hideout: Copy Room]
+
+In the hum of old copiers, you find a rebel outpost.
+A man the size of a vending machine joins you.
+
+PEBBLES:
+"They took my break room... now I take theirs."
+
+BOB:
+"Well, we’re gonna need more than your size to take down this corporate behemoth."
+
+PEBBLES (grinning):
+"Don’t worry, Bob. I’m packing more than just muscle."
+(He pulls out a sandwich.)
+"Here’s the plan: I eat this, we win."
+
+[You can Heal / Upgrade HP / Upgrade Mana / Buy new Ability (for gold)]
+
+[Location: Meeting Maze]
+
+You’re ambushed by a gray-suited husk who speaks only in spreadsheets.
+
+Enemy: CORPORATE DRONE
+"Your Q3 performance is... sub-optimal."
+
+[Battle begins...]
+
+[Location: Hall of Interns]
+
+Two interns wearing badges labeled “EXPOSABLE” sprint at you.
+
+Enemies: UNPAID INTERN x2
+"Work experience is its own reward!"
+
+[Battle begins...]
+
+[Location: Executive Training Hall]
+
+Knights clad in PowerPoint armor block your path.
+
+Enemies: LINKEDIN KNIGHTS x2
+"Endorse me for pain."
+
+[Battle begins...]
+
+[Location: Executive Sky Lounge]
+
+VP Cheryl floats on a hover-desk, surrounded by KPI charts.
+
+Mini-Boss: VICE PRESIDENT CHERYL
+"I’m not mad. I’m just very disappointed."
+
+[Battle begins...]
+
+[After the fight:]
+CHERYL (wheezing):
+"Tell... Karen... her... perfume... is... awful..."
+
+[+Motivational Shield Broken — Progress Unlocked]
+
+[Location: Executive Spa & Sauna]
+
+A steam-filled spa filled with burned-out workers. You find Karen here.
+
+KAREN (lounging in a hot tub):
+"I used to be HR. Now I just ruin people with my scent."
+Karen twirls around dramatically, spraying you with an expensive-looking bottle of perfume that makes your head spin.
+KAREN (laughing):
+"Isn’t it just fabulous? HR gave me this as a ‘parting gift.’ It’s called ‘Corporate Misery.’"
+
+BOB (gagging):
+"Please tell me that’s not what you wear to interviews."
+
+KAREN (smiling knowingly):
+"Sweetie, this is what I wear to ruin interviews."
+
+[Karen joins your team.]
+
+KAREN (glancing at Pebbles):
+"Are we supposed to fight with this oversized lunchbox? Can he even fight?"
+
+PEBBLES (munching on a sandwich):
+"You bet I can. My moves are unpredictable... like my snack intake."
+
+KAREN (rolls her eyes):
+"Perfect. Another one who thinks he’s ‘spontaneous.’"
+
+[You can Heal / Upgrade ATK / Unlock perfume-based AoE / Buy Mana Boost]
+
+[Location: Agile Arena]
+
+Two warriors throw Post-Its at you like shuriken.
+
+Enemies: SCRUM MASTER x2
+"We’ll circle back on your death."
+
+[Battle begins...]
+
+CHAD (shouting from the back):
+"Hey, Bob! Try hitting them with a ‘pivot’! That’s what they love to hear!"
+
+KAREN (eye twitching):
+"Chad, I swear to God, if you say ‘synergy’ one more time, I’m going to personally make sure you end up in a burnout meeting."
+
+PEBBLES:
+"Yeah, Chad. You're on thin ice... and it's about to break."
+
+CHAD:
+"Uh, guys? Wasn’t that a good opportunity for some team synergy?"
+
+KAREN (sighing):
+"Just… just hold the door, Chad."
+
+[Location: Server Closet]
+
+Two gremlins chew on Ethernet cables and whisper passwords.
+
+Enemies: IT GREMLIN x2
+"Have you tried dying and restarting?"
+
+[Battle begins...]
+
+[Location: Company Picnic Zone]
+
+You’re forced into a surprise dodgeball session with a trio of marketing interns.
+
+Enemies: MARKETING MOB x3
+"This game builds synergy!"
+
+[Battle begins...]
+
+CHAD:
+"Look, I get it! You’re just trying to build team spirit—but maybe not with dodgeballs to the face!"
+
+KAREN:
+"Ugh, I’ve had more fun in a Zoom call than this. And that’s saying something."
+
+PEBBLES (dodging a ball):
+"Take that synergy, chumps!"
+(He pulls out another sandwich, taking a bite mid-fight.)
+
+[Location: Cloud Elevator to Heaven]
+
+A glass elevator ascends into the clouds. Final stop: the CEO’s realm.
+You gather your team and prepare for the final fight.
+
+PEBBLES:
+"Alright, team. Here’s the plan: I’m gonna charge in, smash everything, and eat whatever’s left."
+
+KAREN:
+"Really, Pebbles? That’s your plan? How about we just strategize for once?"
+
+CHAD:
+"Hey, I read a study that says if we stand in a triangle, our chances of success go up by 35%. Can we try that?"
+
+BOB:
+"Chad, I swear to God, if we survive this, I’m locking you in the break room until your spreadsheets are done."
+
+[Location: Cloud Citadel — Boardroom of the Gods]
+
+You face a colossal digital form made of floating spreadsheets, graphs, and glowing ties.
+
+Final Boss: Z.E.R.0 — CEO OF EARTH
+"Welcome to your Final Performance Review."
+
+[Battle begins: Phase-based]
+
+PHASE 1:
+Z.E.R.0 uses "Layoff Laser" and summons "Middle Manager Drones."
+
+KAREN (yelling):
+"If I don’t get a promotion after this, I swear to God... I’ll burn this whole damn office to the ground!"
+
+PEBBLES (grinning):
+"Burn it? I’ll just break it."
+
+CHAD (excited):
+"Guys, we’re about to synergize our way to victory! Just feel the energy!"
+
+Z.E.R.0’s defeat:
+
+Z.E.R.0 (fading):
+"You… rejected… optimization…"
+
+PEBBLES:
+"Heck yeah we did. Now I’m going to break the servers… and take a nap."
+
+KAREN:
+"I hope you have a good review for me, Bob. Otherwise, we’re going to have some issues."
+
+
+
+
