@@ -1,0 +1,29 @@
+[Location: Secret Hideout: Copy Room]
+
+You step into the dimly lit copy room, the hum of ancient copiers buzzing like distant war drums. Papers litter the floor, and old toner stains line the walls. This isn’t just any office—it’s a rebel outpost. A man the size of a vending machine stands beside you, his arms crossed. He looks like he’s been fighting this corporate war for years.
+============================================================================================================================================================================================================================================
+PEBBLES:
+"They took my break room... now I take theirs."
+
+You raise an eyebrow, scanning the cluttered room.
+
+You:
+"We’re gonna need more than your size to take down this corporate behemoth."
+
+Pebbles grins, a glint of mischief in his eyes.
+
+PEBBLES:
+"Don’t worry, Bob. I’m packing more than just muscle."
+(He pulls out a sandwich that looks suspiciously... strategic.)
+"Here’s the plan: I eat this, we win."
+
+You stare at the sandwich, unsure if this is genius or madness.
+
+You:
+"What’s in the sandwich?"
+
+PEBBLES:
+"The power of victory, my friend. Now, you get ready to heal up or upgrade—because we're going in hot!"
+============================================================================================================================================================================================================================================
+[You can: Heal / Upgrade HP / Upgrade Mana / Buy new Ability (for gold)]
+============================================================================================================================================================================================================================================

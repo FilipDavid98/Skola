@@ -1,0 +1,48 @@
+[Location: Executive Training Hall]
+
+You enter a grand, polished hall adorned with inspirational quotes and sleek modern furniture. A pair of figures stand in your way—each clad in full armor made entirely of glowing PowerPoint slides, their shields emblazoned with graphs and pie charts. Their helmets are adorned with LinkedIn profile pictures, and their swords are sleek, silver resumes.
+============================================================================================================================================================================================================================================
+Enemies: LINKEDIN KNIGHTS x2
+"Endorse me for pain."
+
+The first knight raises his sword, a graph showing "Impact" in upward motion.
+
+LinkedIn Knight 1:
+"I have 500+ connections. Endorsement me, or prepare for battle!"
+The second knight steps forward, his shield reflecting a high “Leadership” score.
+LinkedIn Knight 2:
+"I’m an expert in ‘synergy.’ You can’t defeat my KPI!"
+
+You turn to Pebbles, who seems utterly unfazed by the armor-clad professionals blocking your path.
+You:
+"I don’t know what’s worse—being blocked by these guys, or having to read their profiles."
+PEBBLES (smirking):
+"Hey, they’re just trying to ‘network,’ Bob. But I’ve got the perfect solution—let’s make a new connection!"
+(He cracks his knuckles and takes another bite of his sandwich.)
+
+LinkedIn Knight 1:
+"Let’s see if your endorsements hold up under pressure!"
+
+[Battle Begins...]
+============================================================================================================================================================================================================================================
+Dialogue if you win:
+The LinkedIn Knights crumble under your relentless attacks, their PowerPoint armor flickering and sparking as their swords and shields become nothing more than cluttered, outdated slides. The knights fall to their knees, their profile pages breaking into static.
+
+LinkedIn Knight 1:
+"This... this wasn’t in the ‘Professional Development’ module..."
+LinkedIn Knight 2:
+"I need to update my skills... again..."
+
+PEBBLES (grinning):
+"No one told them that ‘networking’ was a contact sport."
+============================================================================================================================================================================================================================================
+Dialogue if you lose:
+The knights charge, overwhelming you with their endless streams of buzzwords and demands for endorsements. Their PowerPoint shields block your every move, and their sword strikes come faster than you can process the endless flood of “skills” they boast.
+
+LinkedIn Knight 1:
+"Endorse me for ‘crushing it’!"
+LinkedIn Knight 2:
+"You can’t compete with my ‘innovative thinking’!"
+
+As the constant barrage of corporate jargon wears you down, you’re knocked to the ground, defeated by the sheer weight of unrelenting self-promotion.
+============================================================================================================================================================================================================================================

@@ -1,0 +1,44 @@
+[Location: Cube Farm]
+
+The air is filled with the soft hum of computers and the faint clack of keyboards. As you walk through the maze of cubicles, a subtle beep disrupts the monotony. Out of the corners of your eyes, you notice two robotic figures emerging from behind ergonomic chairs. Their bodies are sleek and metallic, their faces nothing but empty screens displaying passive-aggressive, corporate jargon.
+============================================================================================================================================================================================================================================
+Enemies: SLACKBOT x2
+"Hey champ, just circling back!"
+
+One of the Slackbots adjusts its posture, its screen flashing with an email notification.
+
+Slackbot 1: "Hey, just checking in to see if you've got time to sync on that action item!"
+The second Slackbot tilts its head, displaying an endless scrolling list of tasks, emails, and reminders.
+Slackbot 2: "You haven’t updated your status in the group thread. We need to circle back. ASAP."
+
+You try to step forward, but they block your path with robotic efficiency, their screens lighting up with reminders and automated alerts.
+
+Slackbot 1: "Just a quick follow-up on our previous convo."
+Slackbot 2: "Remember to 'reply all' to confirm. Let’s get this on the agenda."
+
+The overwhelming barrage of digital notifications fills the air, and the Slackbots begin to buzz with increasing intensity.
+
+Enemies: "Let's make sure we're all aligned on this!"
+[Battle Begins...]
+============================================================================================================================================================================================================================================
+Dialogue if you win:
+Both Slackbots power down, their screens flickering out one by one, the last image on their screens a failed task notification. They fall into a heap, their mechanical limbs locking into place, forever trapped in the never-ending loop of unread messages.
+
+Slackbot 1 (flickering): "Hey... just a... final... ping..."
+Slackbot 2 (dying screen): "Reply all... please..."
+
+The corporate buzz fades, and you step over their inert forms, free of their endless reminders.
+
+You: "I’ll get back to you on that... later."
+============================================================================================================================================================================================================================================
+Dialogue if you lose:
+The Slackbots corner you, their screens flashing with endless to-do lists and passive-aggressive meeting invites. You try to block out the noise, but it’s no use. Each alert, each reminder, saps your will to continue. Your mind goes fuzzy as they continue to barrage you with notifications.
+
+Slackbot 1: "Just checking in again!"
+Slackbot 2: "Don’t forget to confirm your availability for the Q2 planning meeting!"
+
+As the constant pinging fills your mind, your vision starts to blur with every new reminder. Eventually, you give in to the endless stream of emails, your consciousness consumed by the corporate void.
+
+Slackbot 1: "Thanks for the quick response... or, well... lack thereof."
+Slackbot 2: "We’ll circle back after the meeting!"
+============================================================================================================================================================================================================================================

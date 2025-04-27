@@ -1,0 +1,46 @@
+[Location: Meeting Maze]
+
+You and Pebbles step into a long, sterile hallway, the faint sound of clicking keyboards and muffled conference calls echoing through the walls. Suddenly, a gray-suited figure lurches out from behind a partition, its face emotionless and blank. It holds a tablet in front of it, flicking through endless rows of numbers and columns.
+============================================================================================================================================================================================================================================
+Enemy: CORPORATE DRONE
+"Your Q3 performance is... sub-optimal."
+
+The Corporate Drone’s voice is monotone, its eyes cold behind the polished screen of its tablet. A faint buzzing sound fills the air as it pulls up another spreadsheet, showing bar graphs that seem to multiply with each second.
+
+You:
+"Great, another one of these. We don’t have time for spreadsheets."
+PEBBLES (grinning):
+"Let me handle this. I’ve got a spreadsheet of my own!"
+(He raises his sandwich like a weapon, preparing for action.)
+
+Corporate Drone:
+"Your fiscal health metrics are below the acceptable threshold. Your ROI is... unoptimized."
+
+You (nodding):
+"Alright, Pebbles. Time for some damage control."
+PEBBLES (taking a bite of the sandwich):
+"And I’m gonna optimize this lunch!"
+
+With that, the Corporate Drone thrusts its tablet toward you, creating a series of pop-up spreadsheets that bombard you like digital projectiles. Meanwhile, Pebbles charges forward, sandwich in hand, ready to smash through the corporate data storm.
+
+[Battle Begins...]
+============================================================================================================================================================================================================================================
+Dialogue if you win:
+The Corporate Drone stumbles back, its tablet malfunctioning as its spreadsheets collapse into a mess of numbers and broken formulas. It spasms, its robotic movements glitching before it collapses into a heap of crumpled digital paper.
+
+Corporate Drone (glitching):
+"Q4... adjustment... failed..."
+
+You step over the fallen drone, its tablet still flickering uselessly. Pebbles pats you on the back, crumbs of sandwich falling to the floor.
+
+PEBBLES (grinning):
+"That's one less email chain to deal with. Let’s keep going!"
+============================================================================================================================================================================================================================================
+Dialogue if you lose:
+The Corporate Drone stands tall, its spreadsheets overwhelming you and Pebbles. The barrage of bar graphs and endless data points trap you in an infinite loop of performance metrics. Each attempt to break free only results in more numbers and pie charts.
+
+Corporate Drone:
+"Your performance is... unacceptable. Adjust accordingly."
+
+You and Pebbles collapse to the floor, buried under the weight of impossible deadlines and endless data.
+============================================================================================================================================================================================================================================
